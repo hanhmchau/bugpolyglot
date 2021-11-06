@@ -1,8 +1,8 @@
 {
-    "name": "bugpolyglot",
+    "name": "polyglot",
     "title": "Polyglot",
     "description": "Talk to others using a language you can speak and scrambles text you can't understand, in several fantasy scripts.",
-    "version": "1.5.18.2",
+    "version": "0.0.2",
     "author": [
         "MClemente",
         "KaKaRoTo",
@@ -55,7 +55,7 @@
     ],
 	"url": "https://github.com/hanhmchau/bugpolyglot",
 	"manifest": "https://raw.githubusercontent.com/hanhmchau/bugpolyglot/main/module.json",
-	"download": "https://github.com/hanhmchau/bugpolyglot/archive/0.0.1.zip",
+	"download": "https://github.com/hanhmchau/bugpolyglot/archive/0.0.2.zip",
     "minimumCoreVersion": "0.7.6",
     "compatibleCoreVersion": "0.7.9",
     "bugs": "https://github.com/League-of-Foundry-Developers/fvtt-module-polyglot/issues",
