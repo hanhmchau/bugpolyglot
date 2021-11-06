@@ -1,0 +1,55 @@
+{
+  "alphabets": {
+    "common": "130% Thorass",
+    "auran":"100% OldeThorass",
+    "celestial": "150% Celestial",
+    "outwordly": "200% ArCiela",
+    "draconic": "150% Iokharic",
+    "dwarvish": "120% Dethek",
+    "druidic": "120% JungleSlang",
+    "gnoll": "130% Kargi",
+    "elvish": "120% Espruar",
+    "infernal": "180% Infernal",
+    "sylvan":"150% OldeEspruar",
+    "tirsu": "200% Pulsian",
+    "drowic": "100% HighDrowic",
+    
+    "serpent":"120% Ophidian"
+  },
+  "tongues": {
+    "_default": "common",
+    "aarakocra": "auran",
+    "abyssal": "infernal",
+    "aquan": "dwarvish",
+    "auran": "dwarvish",
+    "celestial": "celestial",
+    "deep": "outwordly",
+    "draconic": "draconic",
+    "druidic": "druidic",
+    "dwarvish": "dwarvish",
+    "elvish": "elvish",
+    "giant": "dwarvish",
+    "gith": "tirsu",
+    "gnoll": "gnoll",
+    "gnomish": "dwarvish",
+    "goblin": "dwarvish",
+    "halfling": "common",
+    "ignan": "dwarvish",
+    "infernal": "infernal",
+    "orc": "dwarvish",
+    "primordial": "dwarvish",
+    "sylvan": "sylvan",
+    "terran": "dwarvish",
+    "cant": "common",
+    "undercommon": "drowic",
+    
+    "dwarven": "dwarvish",
+    "elven": "elvish",
+    "gnome": "dwarvish",
+    "treant": "sylvan",
+    
+    "aklo": "serpent",
+    "jotun": "giant",
+    "orcish": "dwarvish"
+  }
+}

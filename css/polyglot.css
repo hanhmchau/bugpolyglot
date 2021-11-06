@@ -1,0 +1,43 @@
+.polyglot-lang-select {
+	flex: 0 0 28px;
+	margin: 0 6px;
+}
+.polyglot-lang-select select {
+	height: 24px;
+	background: rgba(255, 255, 245, 0.8);
+}
+
+span.polyglot-journal {
+	background-color: rgba(255, 180, 0, 0.25)
+}
+
+.polyglot-translation-text{
+	position:relative;
+	padding-top: 16px;
+	/* line-height: 24px; */
+	/* background: rgba(0, 0, 0, 0.1); */
+	/* border: 1px solid #999; */
+	/* border-radius: 3px; */
+	/* box-shadow: 0 0 2px #FFF inset; */
+  border-top: 1px solid #999;
+	-webkit-user-select: text;
+	-moz-user-select: text;
+	-ms-user-select: text;
+	user-select: text;
+}
+
+.polyglot-translation-text:before{
+	position: absolute;
+	content: attr(title);
+	font-size: 14px;
+	top: 0px;
+	/* left: 4px; */
+	font-weight: bold;
+	font-style: italic;
+}
+
+.polyglot-group-header {
+    font-weight: bold;
+    padding: 8px 20px;
+    background-color: rgba(255, 255, 255, 0.4);
+}
